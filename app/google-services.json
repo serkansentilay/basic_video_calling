@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61295653046",
+    "project_id": "betavideocall",
+    "storage_bucket": "betavideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61295653046:android:059b5a2165d26f61b8f617",
+        "android_client_info": {
+          "package_name": "com.serkan.videocalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61295653046-movr9694vrlvf4p25735fvmbqskm381p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serkan.videocalling",
+            "certificate_hash": "2173a5d2e0d3a7e63115d8f9d28788660de16b02"
+          }
+        },
+        {
+          "client_id": "61295653046-68oqd4kj3eagjle6hudqja38fnt5hjr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQr1Amd65myzKGTM_zCAwYTqGk586fZ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61295653046-68oqd4kj3eagjle6hudqja38fnt5hjr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
